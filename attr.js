@@ -352,6 +352,6 @@ define("attr", !! this.getComputedStyle ? ["node"] : ["attr_fix"], function($) {
  2012.12.24 升级到v3 添加对defaultSelected defaultChecked的处理
 
  http://nanto.asablo.jp/blog/2005/10/29/123294
-
+ 
  http://perl.no-tubo.net/2010/07/01/ie-%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B-setattribute-%E3%82%84-getattribute-%E3%82%84-removeattribute-%E3%81%8C%E3%81%A0%E3%82%81%E3%81%A0%E3%82%81%E3%81%AA%E4%BB%B6/
  */
